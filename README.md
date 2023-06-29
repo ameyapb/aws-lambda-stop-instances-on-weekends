@@ -1,0 +1,1 @@
+# aws-lambda-stop-instances-on-weekends
